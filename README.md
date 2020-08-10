@@ -1,7 +1,7 @@
 ### Hi, I'm Leah Nonay
 
 ## I'm a Developer, Graphic Designer, Illustrator, and Student!
-- I’m currently working on a Android application
+- I’m currently working on a [Android application][cantrip]
 - I'm currently studying Computer Software Development at my local university
 - I'm looking for employment opportunities in Alberta, Canada
 - Fun Fact: I am also a freelance digital artist
@@ -29,3 +29,4 @@
 <!--Link Values-->
 [portfolio]: https://leahnonay.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/leahnonay/
+[cantrip]: https://github.com/leahnonay/Cantrip
