@@ -1,6 +1,6 @@
 ### Hi, I'm Leah Nonay
 
-## I'm a Developer, Graphic Designer, Illustrator, and Student!
+## I'm a Developer, Graphic Designer, and Illustrator!
 - I’m currently working on my [Android application, Cantrip][cantrip]
 - I study Computer Software Development at my local university
 - I'm looking for employment opportunities in Alberta, Canada (or Nova Scotia)
