@@ -2,8 +2,8 @@
 
 ## I'm a Developer, Graphic Designer, and Illustrator!
 - I’m currently working on my [Android application, Cantrip][cantrip]
-- I study Computer Software Development at my local university
-- I'm looking for employment opportunities in Alberta, Canada (or Nova Scotia)
+- I recently graduated as a Computer Software Developer at my local university
+- I'm currently employed as a Full Stack Developer
 - I'm also a freelance digital artist
 
 ### Languages and Tools:
