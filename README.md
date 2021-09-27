@@ -1,7 +1,7 @@
 ### Hi, I'm Leah Nonay
 
-## I'm a Developer, Graphic Designer, and Illustrator!
-- I’m currently working on my [Android application, Cantrip][cantrip] (which I am now turning into a web application)
+## A Full-Stack Developer From Canada!
+- I’m currently working on my independent DnD application, [Cantrip][cantrip]
 - I'm a Computer Software Developer graduate from the Northern Alberta Institute of Technology
 - I'm currently employed as a Full Stack Developer
 - I'm also a freelance digital artist
