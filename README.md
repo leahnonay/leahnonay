@@ -1,4 +1,4 @@
-### Hi, I'm Leah Nonay
+### Hi, I'm Leah Eyestone
 
 ## A Full-Stack Developer From Canada!
 - I’m currently working on my independent DnD application, [Cantrip][cantrip]
