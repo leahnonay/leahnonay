@@ -11,6 +11,6 @@
 [<img align="left" alt="https://www.linkedin.com/in/leahnonay/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!--Link Values-->
-[portfolio]: https://leahnonay.ca
-[linkedin]: https://www.linkedin.com/in/leahnonay/
+[portfolio]: https://leaheyestone.ca
+[linkedin]: https://www.linkedin.com/in/leaheyestone/
 [cantrip]: https://github.com/leahnonay/Cantrip
