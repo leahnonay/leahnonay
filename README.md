@@ -1,9 +1,9 @@
 ### Hi, I'm Leah Eyestone
 
-## A Full-Stack Developer From Canada!
+## Designer and developer from Western Canada!
+- I'm an intermediate full-stack engineer
 - I’m working on my independent DnD application, [Cantrip][cantrip]
-- I'm a Computer Software Developer graduate from the Northern Alberta Institute of Technology
-- I'm currently employed as a Full Stack Developer (Intermediate)
+- I was a Application Development graduate from the Northern Alberta Institute of Technology
 - I'm also a freelance digital artist
 
 ### Find Me
